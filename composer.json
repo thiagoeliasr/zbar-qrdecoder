@@ -1,5 +1,5 @@
 {
-    "name": "robbiep/zbar-qrdecoder",
+    "name": "rzani/zbar-qrdecoder",
     "description": "A PHP wrapper for Zbar. Decodes images/photos containing QR codes.",
     "keywords": ["zbar","qr","qrcode","decode","php","laravel"],
     "license": "MIT",
@@ -7,7 +7,11 @@
         {
             "name": "Robbie Paul",
             "email": "robbiepaul@me.com"
-        }
+        },
+	{
+	    "name": "Rodrigo Zani",
+	    "email": "rodrigo.zhs@gmail.com"
+	}
     ],
     "require": {
         "php": ">=5.5.0",
